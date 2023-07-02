@@ -2,7 +2,7 @@
 <h3 align="center">Mobile Developer</h3>
 
 ## 💫 About Me:
-⚡ I’m currently learning Swift&Firebase <br>💬 Ask me about Flutter 
+⚡ I’m currently learning Swift&Firebase <br>💬 Ask me about Flutter <br>📫 How to reach me emree190752@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/verchies) 
